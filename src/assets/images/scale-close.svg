@@ -1,0 +1,21 @@
+<svg data-name="Group 32085" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="0mnqt01q2a">
+            <path data-name="Path 14235" d="M4.474 15.636V8.28h15l-.111 7.433zM0 24h24V0H0z" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 32067">
+        <g data-name="Group 32066" style="clip-path:url(#0mnqt01q2a)">
+            <path data-name="Path 14231" d="M4.474 8.5h4.032V4.464" style="stroke:#000;stroke-linejoin:round;fill:none"/>
+            <path data-name="Path 14232" d="M8.506 19.464v-4.032H4.474" style="stroke:#000;stroke-linejoin:round;fill:none"/>
+            <path data-name="Path 14233" d="M19.474 15.432h-4.032v4.032" style="stroke:#000;stroke-linejoin:round;fill:none"/>
+            <path data-name="Path 14234" d="M15.442 4.463V8.5h4.032" style="stroke:#000;stroke-linejoin:round;fill:none"/>
+            <path data-name="Line 1709" transform="translate(4.701 4.691)" style="stroke:#000;stroke-linejoin:round;fill:none" d="m0 0 14.545 14.545"/>
+            <path data-name="Line 1710" transform="translate(4.701 4.691)" style="stroke:#000;stroke-linejoin:round;fill:none" d="M14.545 0 0 14.545"/>
+        </g>
+    </g>
+    <path data-name="Path 14236" d="M4.474 8.5h4.032V4.464" style="stroke:#000;stroke-linejoin:round;fill:none"/>
+    <path data-name="Path 14237" d="M8.506 19.464v-4.032H4.474" style="stroke:#000;stroke-linejoin:round;fill:none"/>
+    <path data-name="Path 14238" d="M19.474 15.432h-4.032v4.032" style="stroke:#000;stroke-linejoin:round;fill:none"/>
+    <path data-name="Path 14239" d="M15.442 4.463V8.5h4.032" style="stroke:#000;stroke-linejoin:round;fill:none"/>
+</svg>

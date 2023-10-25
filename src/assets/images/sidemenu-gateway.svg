@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g transform="translate(-38 -234)">
+        <circle data-name="24x24" cx="12" cy="12" r="12" transform="translate(38 234)" style="fill:none"/>
+        <path data-name="Path 12322" d="M20.455 13.528a6.076 6.076 0 0 1 8.593.021" transform="translate(25.244 228.034)" style="stroke-miterlimit:10;stroke:#fff;fill:none"/>
+        <path data-name="Path 12323" d="M27.488 22.18a2.8 2.8 0 0 1 3.966.01" transform="translate(20.525 221.591)" style="stroke-miterlimit:10;stroke:#fff;fill:none"/>
+        <path data-name="Path 12324" d="M13.752 4.281a9.206 9.206 0 0 1 13.019.031" transform="translate(29.741 234.85)" style="stroke-miterlimit:10;stroke:#fff;fill:none"/>
+        <path data-name="Rectangle 9290" transform="translate(39.995 246.009)" style="stroke-linejoin:round;stroke-linecap:round;stroke-miterlimit:10;stroke:#fff;fill:none" d="M0 0h20v7.16H0z"/>
+        <path data-name="Line 104" transform="translate(43.013 249.589)" style="stroke-linecap:round;stroke:#fff;fill:none" d="M0 0h5"/>
+        <g data-name="Ellipse 143" transform="translate(52 249.089)" style="fill:#fff;stroke:#fff">
+            <circle cx=".5" cy=".5" r=".5" style="stroke:none"/>
+            <circle cx=".5" cy=".5" style="fill:none"/>
+        </g>
+        <g data-name="Ellipse 144" transform="translate(54.011 249.089)" style="fill:#fff;stroke:#fff">
+            <circle cx=".5" cy=".5" r=".5" style="stroke:none"/>
+            <circle cx=".5" cy=".5" style="fill:none"/>
+        </g>
+        <g data-name="Ellipse 145" transform="translate(56.023 249.089)" style="fill:#fff;stroke:#fff">
+            <circle cx=".5" cy=".5" r=".5" style="stroke:none"/>
+            <circle cx=".5" cy=".5" style="fill:none"/>
+        </g>
+    </g>
+</svg>

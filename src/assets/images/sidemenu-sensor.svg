@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="Asus_IOT_PHM_sider_icon_EventManergement_sensor overview" transform="translate(-38 -234)">
+        <circle data-name="24x24" cx="12" cy="12" r="12" transform="translate(38 234)" style="fill:none"/>
+        <path data-name="Path 12322" d="M20.455 13.528a6.076 6.076 0 0 1 8.593.021" transform="translate(25.244 229.034)" style="stroke:#fff;stroke-miterlimit:10;fill:none"/>
+        <path data-name="Path 12323" d="M27.488 22.18a2.8 2.8 0 0 1 3.966.01" transform="translate(20.525 222.591)" style="stroke:#fff;stroke-miterlimit:10;fill:none"/>
+        <path data-name="Path 12324" d="M13.752 4.281a9.206 9.206 0 0 1 13.019.031" transform="translate(29.741 235.85)" style="stroke:#fff;stroke-miterlimit:10;fill:none"/>
+        <path data-name="Rectangle 9146" transform="translate(45.015 247.009)" style="stroke:#fff;stroke-miterlimit:10;fill:none" d="M0 0h10.018v6.16H0z"/>
+        <path data-name="Rectangle 9147" transform="translate(39.493 248.411)" style="stroke:#fff;stroke-miterlimit:10;fill:none" d="M0 0h5.474v3.408H0z"/>
+        <path data-name="Line 88" transform="translate(39.493 246.384)" style="stroke:#fff;stroke-miterlimit:10;fill:none" d="M0 0v7.376"/>
+        <path data-name="Rectangle 9148" transform="translate(55.033 248.36)" style="stroke:#fff;stroke-miterlimit:10;fill:none" d="M0 0h5.474v3.408H0z"/>
+        <path data-name="Line 89" transform="translate(60.507 246.356)" style="stroke:#fff;stroke-miterlimit:10;fill:none" d="M0 7.376V0"/>
+    </g>
+</svg>

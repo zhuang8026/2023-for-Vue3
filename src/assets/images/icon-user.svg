@@ -1,0 +1,17 @@
+<svg id="Asus_IOT_PHM_userIcon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Oval" d="M0 20a20 20 0 1 1 20 20A20 20 0 0 1 0 20z" style="fill:none"/>
+        </clipPath>
+        <style>
+            
+        </style>
+    </defs>
+    <g id="Group_23" data-name="Group 23">
+        <g id="Oval-2" data-name="Oval">
+            <circle id="Oval-3" data-name="Oval" cx="20" cy="20" r="20" style="fill:#fff"/>
+            <circle id="Oval-4" data-name="Oval" cx="20" cy="20" r="20" style="fill:none"/>
+        </g>
+        <path id="Shape" d="M1.563 20H0a10.017 10.017 0 0 1 6.728-9.454 5.781 5.781 0 1 1 6.542 0A10.019 10.019 0 0 1 20 20h-1.562a8.438 8.438 0 0 0-16.875 0zM10 1.562a4.219 4.219 0 1 0 4.218 4.219A4.224 4.224 0 0 0 10 1.562z" transform="translate(10 10)" style="fill:#1982f0;stroke:#1782f0;stroke-miterlimit:10;stroke-width:.4px"/>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g transform="translate(-38 -454)">
+        <circle data-name="24X24" cx="12" cy="12" r="12" transform="translate(38 454)" style="fill:none"/>
+        <path data-name="Path 12325" d="M17.978 12.007V.5H.5v16.548a1.933 1.933 0 0 0 1.934 1.934h8.514" transform="translate(40.571 456.033)" style="stroke:#fff;fill:none"/>
+        <path data-name="Line 90" transform="translate(47.083 461.653)" style="stroke-miterlimit:10;stroke:#fff;fill:none" d="M8.825 0H0"/>
+        <path data-name="Line 91" transform="translate(47.083 465.774)" style="stroke-miterlimit:10;stroke:#fff;fill:none" d="M8.825 0H0"/>
+        <path data-name="Line 92" transform="translate(47.083 469.895)" style="stroke-miterlimit:10;stroke:#fff;fill:none" d="M3.709 0H0"/>
+        <path data-name="Line 93" transform="translate(43.85 461.654)" style="stroke-miterlimit:10;stroke:#fff;fill:none" d="M0 0h1.571"/>
+        <path data-name="Line 94" transform="translate(43.85 465.775)" style="stroke-miterlimit:10;stroke:#fff;fill:none" d="M0 0h1.571"/>
+        <path data-name="Line 95" transform="translate(43.85 469.895)" style="stroke-miterlimit:10;stroke:#fff;fill:none" d="M0 0h1.571"/>
+        <path data-name="Path 12326" d="M43.216 47.663h-2.229a1.616 1.616 0 0 1-1.611-1.611v-3.9h5.452v3.9a1.616 1.616 0 0 1-1.612 1.611z" transform="translate(13.807 427.804)" style="stroke-width:.9px;stroke-miterlimit:10;stroke:#fff;fill:none"/>
+        <path data-name="Rectangle 9149" transform="translate(52.125 469.409)" style="fill:#fff" d="M0 0h7.49v.9H0z"/>
+        <path data-name="Line 96" transform="translate(54.968 472.098)" style="stroke-width:.9px;stroke-miterlimit:10;stroke:#fff;fill:none" d="M0 0v1.795"/>
+        <path data-name="Line 98" transform="translate(56.834 472.098)" style="stroke-width:.9px;stroke-miterlimit:10;stroke:#fff;fill:none" d="M0 0v1.795"/>
+        <path data-name="Path 12327" d="M44.952 36.8a.929.929 0 0 1 1.858 0" transform="translate(9.989 432.613)" style="stroke-width:.8px;stroke-miterlimit:10;stroke:#fff;fill:none"/>
+    </g>
+</svg>

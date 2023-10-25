@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+//文字換行
+.text-break{
+    word-break: break-word;
+}
+//頁面標題
+.title--main{
+    @apply text-2xl font-bold flex items-center;
+}
+
+//頁面content layout main 
+.layout-content-main{
+    @apply bg-white pt-[27px] border-r-[8px]
+}
+.layout-conent-main-side{
+    @apply pl-md-s pr-30px
+}
+
+// 灰底文字
+.ais-ui-tag{
+    @apply py-6px px-[12px] text-xs text-black bg-grey-ed border-[3px] inline-flex w-auto
+}
+//modal content layout
+.modal-content-block {
+    @apply px-40px box-border text-left 
+}
